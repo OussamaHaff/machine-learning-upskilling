@@ -8,4 +8,6 @@ A repository containing projects created during the upskilling period to switch 
 - [LLMs From Scratch](02-llms-from-scratch)
   - [01-tokenising-text](02-llms-from-scratch/01-tokenising-text)
   - [02-byte-pair-encoding](02-llms-from-scratch/02-byte-pair-encoding)
+  - [03-data-sampling-with-sliding-window](02-llms-from-scratch/03-data-sampling-with-sliding-window)
+  - [04-token-embeddings-with-positional-encoding](02-llms-from-scratch/04-token-embeddings-with-positional-encoding)
 - [AI Engineering](03-ai-engineering)
